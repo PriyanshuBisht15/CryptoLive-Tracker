@@ -4,10 +4,10 @@ This project fetches real-time cryptocurrency data for the top 50 cryptocurrenci
 - Identifying the top 5 cryptocurrencies by market capitalization.
 - Calculating the average price of the top 50 cryptocurrencies.
 - Determining the highest and lowest percentage price changes over 24 hours.
-## Features
-✅ Fetches live cryptocurrency data from CoinGecko API
-✅ Updates an Excel file (Crypto.xlsx) every 5 minutes
-✅ Stores key metrics:
+# Features
+## ✅ Fetches live cryptocurrency data from CoinGecko API
+## ✅ Updates an Excel file (Crypto.xlsx) every 5 minutes
+## ✅ Stores key metrics:
    - Cryptocurrency Name
    - Symbol
    - Current Price (USD)
@@ -15,8 +15,8 @@ This project fetches real-time cryptocurrency data for the top 50 cryptocurrenci
    - 24-hour Trading Volume
    - Price Change (24h, %)
    
-✅ Clears old data before adding new updates
-✅ Performs basic analysis on cryptocurrency trends
+ ## ✅ Clears old data before adding new updates
+ ## ✅ Performs basic analysis on cryptocurrency trends
 
 ## Installation & Setup
 - Prerequisites
