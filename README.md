@@ -38,6 +38,7 @@ The script will continuously update the Excel file (Crypto.xlsx) every 5 minutes
 - Before:
 ![image](https://github.com/user-attachments/assets/f964bf27-38bb-447e-b383-5b0b6b87c76c)
 
+
 - After:
 ![image](https://github.com/user-attachments/assets/6e91d7e0-5c1d-4663-8918-15fb406d2de2)
 
